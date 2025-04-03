@@ -19,4 +19,3 @@ print(resumo.capitalize())
 # Imprima na tela uma string utilizando uma variável, usando o recurso string format
 idade = 34
 print(f"Aldo é um homem de {idade} anos e pretende mudar de carreira, por isso está estudando 'python'.")
-
