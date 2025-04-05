@@ -12,4 +12,4 @@ estudante['curs_rel'] = curs_rel.split(', ')
 total_anos = estudante['ano_atual'] - estudante['linkedIn']
 total_curs = len(estudante['curs_rel'])
 
-print(f"Olá {estudante['nome']}, desde {estudante['linkedIn']} você tem acesso ao LinkedIn. Nesses {total_anos} anos, você realizou {total_curs} cursos na plataforma, sendo o primeiro curso {estudante['curs_rel'][0]} e o ultimo curso {estudante['curs_rel'][-1]}")
+print(f"Olá {estudante['nome']}, desde {estudante['linkedIn']} você tem acesso o LinkedIn. Nesses {total_anos} anos, você realizou {total_curs} cursos na plataforma, sendo o primeiro curso {estudante['curs_rel'][0]} e o ultimo curso {estudante['curs_rel'][-1]}")
