@@ -14,3 +14,4 @@ Est_dados.pop()
 Est_dados.append('operadores')
 # Remova da lista um item específico
 Est_dados.remove('flutuante')
+print(Est_dados)

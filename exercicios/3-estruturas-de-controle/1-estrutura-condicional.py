@@ -30,4 +30,4 @@ else:
 if y > a: 
   print(f'A condição foi cumprida. O número {y} é maior do que {a}')
 if e > y:
-  print(f'Nesse caso, verificamos que o número {e} é maior do que {y}')
+  print(f'Nesse caso, verificamos que o número {e} é maior do que {y}') 
